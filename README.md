@@ -6,4 +6,4 @@ classification with deep learning. Our results will help automate damage
 identification and severity assessment, aggregate tolls with the corresponding
 trip, and ensure proper attribution to the correct parties in the freight chain.
 
-[![Video Title](https://img.youtube.com/vi/La1AOvXXJeg&t=6s/0.jpg)](https://www.youtube.com/watch?v=La1AOvXXJeg&t=6s)
+[![Video Title](https://i.postimg.cc/kGJSPHHW/Capture.jpg))](https://www.youtube.com/watch?v=La1AOvXXJeg&t=6s)
