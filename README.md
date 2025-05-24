@@ -18,4 +18,6 @@ Our solution enhances accountability and cost control, reduces manual interventi
 
 ### 🔮 **Future Edelman Impact Award Video**
 
+> **🔗 Click below to watch the full walkthrough on YouTube**
+
 [![Watch the Video](https://i.postimg.cc/kGJSPHHW/Capture.jpg)](https://www.youtube.com/watch?v=La1AOvXXJeg&t=6s)
